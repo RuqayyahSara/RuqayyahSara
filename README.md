@@ -18,8 +18,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/ruqayyah-sara-98812a165"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/RuqayyahMushtaq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://twitter.com/RuqayyahMushtaq"><img src="https://img.shields.io/badge/ruqayyahsara-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://twitter.com/RuqayyahMushtaq"><img src="https://img.shields.io/badge/Ruqayyah Sara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://instagram.com/ruqayyahsara?utm_medium=copy_link"><img src="https://img.shields.io/badge/ruqayyahsara-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://medium.com/@sarasadiya4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
 <a href="mailto:sarasadiya4@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
