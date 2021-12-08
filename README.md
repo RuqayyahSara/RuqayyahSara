@@ -4,9 +4,9 @@
 
 </br>
 </br>
-- 🔭 I’m currently a fellow at https://cs.code.in/ - Class of CS 2021
-- 🌱 I’m currently learning **Web Engineering**
-- 🤩 I'm super passionate about Tech and I aspire to learn new things everyday!
-- 📫 How to reach me: **@sarasadiya4@gmail.com**
+- 🔭 I’m currently a fellow at cs.code.in - Class of CS 2021 </br>
+- 🌱 I’m currently learning **Web Engineering** </br>
+- 🤩 I'm super passionate about Tech and I aspire to learn new things everyday! </br>
+- 📫 How to reach me: **@sarasadiya4@gmail.com** </br>
 - 🚀 Happy Coding!
 
