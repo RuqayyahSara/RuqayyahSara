@@ -9,4 +9,14 @@
 - 🤩 I'm super passionate about Tech and I aspire to learn new things everyday! </br>
 - 📫 How to reach me: <b>@sarasadiya4@gmail.com</b> </br>
 - 🚀 Happy Coding!
+  
+</br>
+</br>
+  ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://twitter.com/RuqayyahMushtaq"><img src="https://img.shields.io/twitter/url?style=social"/></a>
+<a href="https://www.linkedin.com/in/ruqayyah-sara-98812a165"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/ruqayyahsara?utm_medium=copy_link"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
