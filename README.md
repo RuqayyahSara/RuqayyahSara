@@ -4,7 +4,7 @@
 
 </br>
 </br>
-- 🔭 I’m currently a fellow at cs.code.in - Class of CS 2021 </br>
+  - 🔭 I’m currently a fellow at <a href="cs.code.in">cs.code.in</a> - Class of CS 2021 </br>
 - 🌱 I’m currently learning <b>Web Engineering</b> </br>
 - 🤩 I'm super passionate about Tech and I aspire to learn new things everyday! </br>
 - 📫 How to reach me: <b>@sarasadiya4@gmail.com</b> </br>
