@@ -6,7 +6,8 @@
 </br>
 - 🔭 I graduated as a fellow at <a href="https://cs.code.in/">CS.CODE.IN</a> - Class of CS 2021 </br>
 - 🤩 I'm super passionate about Tech and I aspire to learn new things everyday! </br>
-- 📫 How to reach me: <b>@sarasadiya4@gmail.com</b> </br>
+- 🏢 Working as a Software Engineer at <a href="https://kairostech.com">Kairos Technologies</a>
+- 📫 How to reach me: <b>@ruqayyahsara20@gmail.com</b> </br>
 - 🌱 Checkout my portfolio at <b>https://ruqayyah.codes</b> </br>
 - 🚀 Happy Coding!
   
